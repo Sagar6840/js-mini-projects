@@ -10,3 +10,11 @@ A simple **JavaScript project** that converts **Celsius** to **Fahrenheit** and 
 - **HTML**: Structure of the page.
 - **CSS**: Styling of the page.
 - **JavaScript**: Functionalities for conversion.
+- 
+## Usage:
+1. Enter a temperature in either **Celsius** or **Fahrenheit**.
+2. Press the corresponding button to convert to the other unit.
+3. The result will be displayed instantly.
+
+## Contributing:
+Feel free to fork this repository and submit pull requests to improve the project or add new features.
